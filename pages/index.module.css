@@ -1,0 +1,1502 @@
+.rectangleDiv,
+.rectangleDiv1,
+.rectangleDiv2 {
+  position: absolute;
+  top: 2351px;
+  left: 476px;
+  border-radius: 25px;
+  background-color: #fff;
+  width: 373px;
+  height: 75px;
+}
+.rectangleDiv1,
+.rectangleDiv2 {
+  top: 2435px;
+  left: 316px;
+  width: 269px;
+  height: 81px;
+}
+.rectangleDiv2 {
+  top: 2328px;
+  left: 70px;
+  width: 373px;
+  height: 75px;
+}
+.download1Icon {
+  position: absolute;
+  top: 88px;
+  left: 0;
+  width: 1121px;
+  height: 502px;
+  object-fit: cover;
+}
+.letsReduceOurEmissions {
+  position: absolute;
+  top: 2329px;
+  left: 112px;
+  font-size: 75px;
+  line-height: 68.5px;
+  font-family: Poppins;
+  color: rgba(15, 14, 14, 0.99);
+  text-align: left;
+  display: inline-block;
+  width: 841px;
+  height: 103px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.headerBgDiv {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #7ec3d2;
+  opacity: 0.06;
+}
+.label {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 18px;
+  display: inline-block;
+  font-family: Mulish;
+  color: #fff;
+  text-align: center;
+}
+.buttons,
+.containedDefault {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.containedDefault {
+  background-color: #4b9d70;
+  padding: 12px 18px;
+  box-sizing: border-box;
+}
+.buttons {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 21px);
+  right: 165px;
+  overflow: hidden;
+  gap: 20px;
+}
+.climatiQAPIDiv,
+.itemFourDiv {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 18px;
+  font-weight: 600;
+  display: inline-block;
+}
+.itemFourDiv {
+  display: none;
+}
+.linksDiv {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 138px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.companyLogo {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: 165px;
+  width: 70px;
+  height: 32px;
+}
+.pollutedNYCDiv {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 457.5px);
+  font-size: 36px;
+  letter-spacing: 0.2px;
+  line-height: 18px;
+  display: inline-block;
+  mix-blend-mode: darken;
+}
+.lightLogoLeft5LinksCe {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 88px;
+  text-align: left;
+  font-size: 14px;
+  color: #373f41;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 590px;
+  left: 0;
+  background-color: #4b9d70;
+  width: 1123px;
+  height: 445px;
+}
+.rectangleIcon,
+.rectangleIcon1 {
+  position: absolute;
+  top: 1796px;
+  left: 0;
+  width: 1123px;
+  height: 479px;
+}
+.rectangleIcon1 {
+  top: 3099px;
+  height: 248px;
+}
+.rectangleDiv4,
+.rectangleDiv5 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangleDiv4 {
+  top: 642px;
+  left: 631px;
+  border-radius: 5px;
+  background-color: #4b9d70;
+  width: 398px;
+  height: 334px;
+}
+.rectangleDiv5 {
+  top: 1035px;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 1121px;
+  height: 763px;
+}
+.unionIcon {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+.trackYourDaily {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.friendsP {
+  margin: 0;
+}
+.trackYourDailyContainer {
+  line-break: anywhere;
+  width: 100%;
+}
+.trackYourDailyCO2Footprint {
+  position: absolute;
+  top: 2572px;
+  left: 101px;
+  font-size: 40px;
+  letter-spacing: 0.3px;
+  line-height: 18px;
+  display: flex;
+  text-align: left;
+  align-items: center;
+  width: 538px;
+}
+.groupIcon {
+  position: absolute;
+  top: 2898px;
+  left: 101px;
+  width: 321px;
+  height: 63px;
+}
+.pollutedNYCB,
+.sewageOverflowSingleUsePl {
+  position: absolute;
+  line-height: 16px;
+  display: inline-block;
+}
+.pollutedNYCB {
+  top: 188px;
+  left: 262px;
+  font-size: 96px;
+  font-family: "Mplus 1p Bold";
+  color: #321b1b;
+  text-align: left;
+  width: 604px;
+  height: 48px;
+}
+.sewageOverflowSingleUsePl {
+  top: 281px;
+  left: 241px;
+  font-size: 32px;
+  width: 559px;
+  height: 167px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+}
+.currentNYCPollutionData,
+.trackNYCsEmissionLevels {
+  position: absolute;
+  font-size: 50px;
+  letter-spacing: 0.3px;
+  line-height: 18px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 185px;
+}
+.trackNYCsEmissionLevels {
+  top: 693px;
+  left: 89px;
+  color: #fff;
+  width: 469px;
+}
+.currentNYCPollutionData {
+  top: 999px;
+  left: 241px;
+  justify-content: center;
+  width: 692px;
+}
+.rectangleDiv6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #aaa;
+  box-shadow: 9px 9px 0 rgba(0, 0, 0, 0.25);
+  width: 464px;
+  height: 73.42px;
+}
+.rectangleDiv7 {
+  top: 85.52px;
+  background-color: #cbcbcb;
+  width: 376px;
+}
+.rectangleDiv10,
+.rectangleDiv7,
+.rectangleDiv8,
+.rectangleDiv9,
+.rectangleTextarea {
+  position: absolute;
+  left: 0;
+  box-shadow: 9px 9px 0 rgba(0, 0, 0, 0.25);
+  height: 73.42px;
+}
+.rectangleTextarea {
+  border: 0;
+  background-color: #dedede;
+  top: 171.03px;
+  width: 220px;
+}
+.rectangleDiv10,
+.rectangleDiv8,
+.rectangleDiv9 {
+  top: 501px;
+  background-color: #bcbbbb;
+  width: 424px;
+}
+.rectangleDiv10,
+.rectangleDiv9 {
+  top: 415.48px;
+  background-color: #d3d3d3;
+  width: 331px;
+}
+.rectangleDiv10 {
+  top: 329.97px;
+  background-color: #eee;
+  width: 143px;
+}
+.barGraphDiv,
+.rectangleDiv11 {
+  position: absolute;
+  top: 1155px;
+  left: 97px;
+  width: 464px;
+  height: 501px;
+}
+.rectangleDiv11 {
+  top: 558px;
+  left: 0;
+  background-color: #aaa;
+  box-shadow: 9px 9px 0 rgba(0, 0, 0, 0.25);
+  width: 503px;
+  height: 495.24px;
+  display: none;
+}
+.groupDiv1,
+.rectangleDiv12,
+.rectangleDiv13 {
+  position: absolute;
+  left: 0;
+  width: 503px;
+  height: 66.56px;
+}
+.rectangleDiv12 {
+  top: 0;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.groupDiv1,
+.rectangleDiv13 {
+  top: 142px;
+}
+.rectangleDiv13 {
+  top: 71px;
+}
+.rectangleDiv13,
+.rectangleDiv14 {
+  border-radius: 5px;
+  background-color: #f4f2f2;
+}
+.groupDiv3,
+.groupDiv4,
+.rectangleDiv14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 503px;
+  height: 66.56px;
+}
+.groupDiv4 {
+  top: 143.78px;
+}
+.emissionDiv,
+.groupDiv2,
+.groupDiv5,
+.groupDiv6,
+.tableDiv {
+  position: absolute;
+  top: 71.89px;
+  left: 0;
+  width: 503px;
+  height: 66.56px;
+}
+.emissionDiv,
+.groupDiv2,
+.groupDiv6,
+.tableDiv {
+  top: 215.67px;
+}
+.emissionDiv,
+.groupDiv2,
+.tableDiv {
+  top: 213.01px;
+  height: 282.23px;
+}
+.emissionDiv,
+.tableDiv {
+  top: 62.76px;
+  height: 495.24px;
+}
+.emissionDiv {
+  top: 0;
+  left: 378px;
+  letter-spacing: 0.3px;
+  line-height: 18px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 58.2px;
+}
+.rectangleDiv21 {
+  position: absolute;
+  top: 1.14px;
+  left: 0;
+  border-radius: 3px;
+  background-color: #787575;
+  width: 503px;
+  height: 61.62px;
+}
+.dataTableDiv,
+.dataTableDiv1,
+.groupDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 503px;
+  height: 558px;
+}
+.dataTableDiv,
+.groupDiv {
+  top: -69px;
+}
+.dataTableDiv {
+  top: 1224px;
+  left: 587px;
+  height: 489px;
+  font-size: 12px;
+  color: #fff;
+}
+.rectangleDiv22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #4b9d70;
+  width: 1125.69px;
+  height: 127px;
+}
+.subscribeGetUpdates {
+  position: absolute;
+  top: 31px;
+  left: 69.17px;
+  letter-spacing: 0.3px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 351.84px;
+  height: 66px;
+}
+.subscribeBarDiv {
+  position: absolute;
+  top: 3986px;
+  left: 0;
+  width: 1125.69px;
+  height: 127px;
+  font-size: 18px;
+  color: #fff;
+}
+.imageRemovebgPreview41 {
+  position: absolute;
+  top: 1851px;
+  left: 765px;
+  width: 343px;
+  height: 341px;
+  object-fit: cover;
+}
+.blankLineP12 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: 24px;
+}
+.usingClimatiqAPICalculateE {
+  position: absolute;
+  top: 1847px;
+  left: 265px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  width: 569px;
+  height: 249px;
+  font-size: 36px;
+}
+.label1 {
+  position: relative;
+  letter-spacing: 0.3px;
+  line-height: 18px;
+  display: inline-block;
+}
+.outlinedDefault {
+  position: absolute;
+  top: 2070px;
+  left: calc(50% - 246.5px);
+  border: 4px solid #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 18px;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 14px;
+  color: #fff;
+}
+.howToUseWidgetsRemovebgPrIcon {
+  position: absolute;
+  top: 2447px;
+  left: 765px;
+  width: 290px;
+  height: 564px;
+  object-fit: cover;
+}
+.rectangleDiv23 {
+  position: absolute;
+  top: 2571px;
+  left: 835px;
+  background-color: #ffa18c;
+  box-shadow: 9px 9px 0 rgba(0, 0, 0, 0.25);
+  width: 62px;
+  height: 10px;
+}
+.rectangleDiv24 {
+  position: absolute;
+  top: 2526px;
+  left: 808px;
+  border-radius: 30px;
+  background-color: #000;
+  width: 216px;
+  height: 251px;
+}
+.rectangleDiv25,
+.rectangleDiv26 {
+  position: absolute;
+  top: 2574px;
+  left: 835px;
+  background-color: #ffa18c;
+  box-shadow: 9px 9px 0 rgba(0, 0, 0, 0.25);
+  width: 111px;
+  height: 10px;
+}
+.rectangleDiv26 {
+  top: 2739px;
+  left: 870px;
+  background-color: #ed370f;
+  width: 74px;
+  height: 27px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.offsetDiv {
+  top: 2729px;
+  left: 932px;
+  font-size: 7.5px;
+  color: #fff;
+  justify-content: center;
+  width: 26px;
+  height: 31px;
+}
+.emissionsDiv,
+.lbsDiv,
+.lbsDiv1,
+.michaelPDiv,
+.offsetDiv {
+  position: absolute;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+}
+.emissionsDiv {
+  top: 2730px;
+  left: 845px;
+  font-size: 7.5px;
+  color: #fff;
+  justify-content: center;
+  width: 76px;
+  height: 31px;
+}
+.lbsDiv,
+.lbsDiv1,
+.michaelPDiv {
+  top: 2574px;
+  height: 11px;
+}
+.michaelPDiv {
+  left: 948px;
+  color: #fff;
+  text-align: left;
+  width: 76px;
+}
+.lbsDiv,
+.lbsDiv1 {
+  left: 826px;
+  font-size: 7.5px;
+  color: #333;
+  justify-content: center;
+  width: 45px;
+  -webkit-text-stroke: 0.3px #000;
+}
+.lbsDiv1 {
+  top: 2725px;
+  left: 871px;
+  color: #fff;
+  width: 27px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 0.3px #fff;
+}
+.rectangleDiv27 {
+  position: absolute;
+  top: 2739px;
+  left: 933px;
+  background-color: #1dc338;
+  box-shadow: 9px 9px 0 rgba(0, 0, 0, 0.25);
+  width: 37px;
+  height: 27px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.lbsDiv2 {
+  position: absolute;
+  top: 2725px;
+  left: 932px;
+  font-size: 7.5px;
+  font-family: Roboto;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 11px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 0.3px #fff;
+}
+.rectangleDiv28 {
+  position: absolute;
+  top: 2590px;
+  left: 835px;
+  background-color: #facf62;
+  box-shadow: 9px 9px 0 rgba(0, 0, 0, 0.25);
+  width: 50px;
+  height: 10px;
+}
+.lbsDiv3,
+.nicholeRMe {
+  position: absolute;
+  top: 2590px;
+  left: 878px;
+  font-family: Roboto;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 76px;
+  height: 11px;
+}
+.lbsDiv3 {
+  left: 831px;
+  font-size: 7.5px;
+  color: #333;
+  width: 37px;
+  -webkit-text-stroke: 0.3px #000;
+}
+.rectangleDiv29 {
+  position: absolute;
+  top: 2606px;
+  left: 835px;
+  background-color: #7ec3d2;
+  box-shadow: 9px 9px 0 rgba(0, 0, 0, 0.25);
+  width: 46px;
+  height: 10px;
+}
+.lbsDiv4,
+.saraADiv {
+  top: 2606px;
+  font-family: Roboto;
+  justify-content: center;
+  height: 11px;
+}
+.saraADiv {
+  position: absolute;
+  left: 858px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  width: 76px;
+}
+.lbsDiv4 {
+  left: 836px;
+  font-size: 7.5px;
+  color: #333;
+  width: 26px;
+  -webkit-text-stroke: 0.3px #000;
+}
+.cO2EmissionLeaderboard,
+.dateDiv,
+.lbsDiv4,
+.sectorDiv {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.cO2EmissionLeaderboard {
+  top: 2540px;
+  left: 831px;
+  font-size: 12px;
+  font-family: Roboto;
+  color: #fff;
+  justify-content: center;
+  width: 152px;
+  height: 31px;
+}
+.dateDiv,
+.sectorDiv {
+  letter-spacing: 0.3px;
+  font-weight: 800;
+  height: 58px;
+}
+.dateDiv {
+  top: 1156px;
+  left: 603px;
+  font-size: 12px;
+  line-height: 18px;
+  color: #fff;
+  justify-content: center;
+  width: 100px;
+}
+.sectorDiv {
+  top: 1158px;
+  left: 839px;
+}
+.categoryDiv,
+.categoryDiv1,
+.emissionDiv1,
+.sectorDiv {
+  font-size: 12px;
+  line-height: 18px;
+  color: #fff;
+  justify-content: center;
+  width: 100px;
+}
+.emissionDiv1 {
+  position: absolute;
+  top: 1158px;
+  left: 965px;
+  letter-spacing: 0.3px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 58px;
+}
+.categoryDiv,
+.categoryDiv1 {
+  left: 721px;
+}
+.categoryDiv {
+  position: absolute;
+  top: 1156px;
+  letter-spacing: 0.3px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 58px;
+}
+.categoryDiv1 {
+  top: 1225px;
+  height: 51px;
+}
+.cO2e0189012KgkWhCO201,
+.categoryDiv1,
+.ctorDiv {
+  position: absolute;
+  letter-spacing: 0.3px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+}
+.ctorDiv {
+  top: 1224px;
+  left: 839px;
+  font-size: 12px;
+  line-height: 18px;
+  color: #fff;
+  justify-content: center;
+  width: 100px;
+  height: 51px;
+}
+.cO2e0189012KgkWhCO201 {
+  top: 1228px;
+  left: 911px;
+  line-height: 14px;
+  width: 204px;
+  height: 45px;
+}
+.div,
+.electricityDiv,
+.energyDiv {
+  justify-content: center;
+  width: 109px;
+}
+.energyDiv {
+  position: absolute;
+  top: 1226px;
+  left: 834px;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.div,
+.electricityDiv {
+  top: 1225px;
+}
+.electricityDiv {
+  position: absolute;
+  left: 712px;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.div {
+  left: 598px;
+}
+.cO2e0189012KgkWhCO2013,
+.div,
+.electricityDiv1 {
+  position: absolute;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.electricityDiv1 {
+  top: 1298px;
+  left: 712px;
+  justify-content: center;
+  width: 109px;
+}
+.cO2e0189012KgkWhCO2013 {
+  top: 1301px;
+  left: 911px;
+  width: 204px;
+}
+.div3,
+.energyDiv3 {
+  justify-content: center;
+  width: 109px;
+}
+.energyDiv3 {
+  position: absolute;
+  top: 1299px;
+  left: 834px;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.div3 {
+  top: 1298px;
+  left: 598px;
+}
+.cO2e0189012KgkWhCO2014,
+.div3,
+.electricityDiv2 {
+  position: absolute;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.electricityDiv2 {
+  top: 1369px;
+  left: 712px;
+  justify-content: center;
+  width: 109px;
+}
+.cO2e0189012KgkWhCO2014 {
+  top: 1372px;
+  left: 911px;
+  width: 204px;
+}
+.div4,
+.energyDiv4 {
+  justify-content: center;
+  width: 109px;
+}
+.energyDiv4 {
+  position: absolute;
+  top: 1370px;
+  left: 834px;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.div4 {
+  top: 1369px;
+  left: 598px;
+}
+.cO2e0189012KgkWhCO2015,
+.div4,
+.electricityDiv3 {
+  position: absolute;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.electricityDiv3 {
+  top: 1439px;
+  left: 708px;
+  justify-content: center;
+  width: 109px;
+}
+.cO2e0189012KgkWhCO2015 {
+  top: 1442px;
+  left: 907px;
+  width: 204px;
+}
+.div5,
+.energyDiv5 {
+  justify-content: center;
+  width: 109px;
+}
+.energyDiv5 {
+  position: absolute;
+  top: 1440px;
+  left: 830px;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.div5 {
+  top: 1439px;
+  left: 594px;
+}
+.cO2e0189012KgkWhCO2016,
+.div5,
+.electricityDiv4 {
+  position: absolute;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.electricityDiv4 {
+  top: 1509px;
+  left: 708px;
+  justify-content: center;
+  width: 109px;
+}
+.cO2e0189012KgkWhCO2016 {
+  top: 1512px;
+  left: 907px;
+  width: 204px;
+}
+.div6,
+.energyDiv6 {
+  justify-content: center;
+  width: 109px;
+}
+.energyDiv6 {
+  position: absolute;
+  top: 1510px;
+  left: 830px;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.div6 {
+  top: 1509px;
+  left: 594px;
+}
+.cO2e0189012KgkWhCO2017,
+.div6,
+.electricityDiv5 {
+  position: absolute;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.electricityDiv5 {
+  top: 1581px;
+  left: 708px;
+  justify-content: center;
+  width: 109px;
+}
+.cO2e0189012KgkWhCO2017 {
+  top: 1584px;
+  left: 907px;
+  width: 204px;
+}
+.div7,
+.energyDiv7 {
+  justify-content: center;
+  width: 109px;
+}
+.energyDiv7 {
+  position: absolute;
+  top: 1582px;
+  left: 830px;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.div7 {
+  top: 1581px;
+  left: 594px;
+}
+.cO2e0189012KgkWhCO2018,
+.div7,
+.div8,
+.electricityDiv6,
+.energyDiv8 {
+  position: absolute;
+  letter-spacing: 0.3px;
+  line-height: 14px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  height: 45px;
+}
+.electricityDiv6 {
+  top: 1655px;
+  left: 708px;
+  justify-content: center;
+  width: 109px;
+}
+.cO2e0189012KgkWhCO2018,
+.div8,
+.energyDiv8 {
+  top: 1658px;
+  left: 907px;
+  width: 204px;
+}
+.div8,
+.energyDiv8 {
+  top: 1656px;
+  left: 830px;
+  justify-content: center;
+  width: 109px;
+}
+.div8 {
+  top: 1655px;
+  left: 594px;
+}
+.rectangleDiv30,
+.rectangleIcon2 {
+  position: absolute;
+  top: 3762.5px;
+  left: -221px;
+  width: 1123px;
+  height: 127px;
+}
+.rectangleDiv30 {
+  top: 3263px;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 1121px;
+  height: 723px;
+}
+.breakDownEmissionsAndOffse {
+  position: absolute;
+  top: 0;
+  left: 821px;
+  text-decoration: underline;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 167px;
+  height: 26px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px rgba(251, 249, 249, 0.39);
+}
+.rectangleIcon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  width: 1084px;
+  height: 75px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 19.91%;
+  width: 2.21%;
+  top: 25.79%;
+  right: 94.23%;
+  bottom: 54.3%;
+  left: 3.55%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.whatIsPollutedNYC {
+  position: absolute;
+  top: 30.5px;
+  left: 81.5px;
+  line-height: 16px;
+  display: inline-block;
+  width: 966px;
+  height: 80px;
+}
+.q1Div1 {
+  top: 793px;
+  left: 0;
+  height: 110.5px;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: Mulish;
+}
+.q1Div,
+.q1Div1,
+.rectangleDiv31 {
+  position: absolute;
+  width: 1084px;
+}
+.q1Div {
+  top: 2630px;
+  left: 20px;
+  height: 903.5px;
+  font-size: 11px;
+  color: #ece5d3;
+  font-family: Roboto;
+}
+.rectangleDiv31 {
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #fff;
+  height: 75px;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 29.33%;
+  width: 2.21%;
+  top: 36%;
+  right: 94.1%;
+  bottom: 34.67%;
+  left: 3.69%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupDiv9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1084px;
+  height: 75px;
+}
+.whatsPollutedNYCsGoal {
+  position: absolute;
+  top: 27px;
+  left: 86px;
+  line-height: 16px;
+  display: inline-block;
+  width: 966px;
+  height: 80px;
+}
+.groupDiv10,
+.q2Div {
+  position: absolute;
+  width: 1084px;
+}
+.q2Div {
+  top: 3531px;
+  left: 20px;
+  height: 107px;
+  text-align: left;
+  font-size: 32px;
+}
+.groupDiv10 {
+  top: 3638px;
+  left: 19px;
+  height: 75px;
+}
+.howCanPollutedNYCHelpTheC {
+  position: absolute;
+  top: 3641px;
+  left: 109px;
+  font-size: 32px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 838px;
+  height: 65px;
+}
+.whatArePollutedNYCsNextSt {
+  position: absolute;
+  top: 27px;
+  left: 76px;
+  line-height: 16px;
+  display: inline-block;
+  width: 824px;
+  height: 60px;
+}
+.vectorIcon3 {
+  position: absolute;
+  height: 25.29%;
+  width: 2.21%;
+  top: 31.03%;
+  right: 94.1%;
+  bottom: 43.68%;
+  left: 3.69%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupDiv11,
+.groupDiv12 {
+  position: absolute;
+  width: 1084px;
+}
+.groupDiv11 {
+  top: 3739px;
+  left: 20px;
+  height: 87px;
+  text-align: left;
+  font-size: 32px;
+}
+.groupDiv12 {
+  top: 3852px;
+  left: 14px;
+  height: 75px;
+}
+.fAQB,
+.followUsOn,
+.iHaveAnotherQuestion {
+  position: absolute;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.iHaveAnotherQuestion {
+  top: 3852px;
+  left: -125px;
+  font-size: 32px;
+  letter-spacing: 0.3px;
+  width: 840px;
+  height: 67px;
+}
+.fAQB,
+.followUsOn {
+  top: 3288px;
+  left: 443px;
+  font-size: 56px;
+  width: 236px;
+  height: 105px;
+}
+.followUsOn {
+  top: 4130px;
+  left: 281px;
+  font-size: 26px;
+  width: 489px;
+}
+.vectorIcon5,
+.vectorIcon6,
+.vectorIcon7 {
+  position: absolute;
+  height: 0.46%;
+  width: 2.23%;
+  top: 96.58%;
+  right: 55.4%;
+  bottom: 2.96%;
+  left: 42.37%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon6,
+.vectorIcon7 {
+  height: 0.5%;
+  width: 1.95%;
+  right: 50.23%;
+  bottom: 2.92%;
+  left: 47.81%;
+}
+.vectorIcon7 {
+  height: 0.57%;
+  width: 1.19%;
+  top: 96.49%;
+  right: 45.82%;
+  bottom: 2.94%;
+  left: 52.99%;
+}
+.lineDiv {
+  position: absolute;
+  top: 2738.5px;
+  left: 841.5px;
+  border-top: 1px solid #f4f2f2;
+  box-sizing: border-box;
+  width: 149px;
+  height: 1px;
+}
+.installWidgetB,
+.termsDiv {
+  position: absolute;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+}
+.installWidgetB {
+  top: 2921px;
+  left: 151px;
+  font-size: 32px;
+  letter-spacing: 0.3px;
+  color: #fff;
+  text-align: left;
+  width: 538px;
+}
+.termsDiv {
+  top: 4274px;
+  left: 111px;
+  font-size: 26px;
+  justify-content: center;
+  width: 261px;
+  height: 65px;
+}
+.contactUsDiv {
+  top: 4254px;
+  left: 747px;
+  justify-content: center;
+  width: 175px;
+  height: 105px;
+}
+.contactUsDiv,
+.privacyDiv,
+.securityDiv {
+  position: absolute;
+  font-size: 26px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+}
+.privacyDiv {
+  top: 4271px;
+  left: 312px;
+  justify-content: center;
+  width: 229px;
+  height: 71px;
+}
+.securityDiv {
+  top: 4288px;
+  left: 501px;
+  width: 246px;
+  height: 55px;
+}
+.backgroundIcon,
+.radarDataIcon {
+  position: absolute;
+  top: 11.91px;
+  left: 35.67px;
+  width: 259.36px;
+  height: 259.89px;
+}
+.radarDataIcon {
+  top: 97.3px;
+  left: 60.69px;
+  width: 170.32px;
+  height: 140.35px;
+}
+.photoshopDiv,
+.pointsIcon {
+  position: absolute;
+  top: 94.75px;
+  left: 58.54px;
+  width: 174.88px;
+  height: 145.43px;
+}
+.photoshopDiv {
+  top: 0;
+  left: 147.65px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 35.99px;
+  height: 9px;
+}
+.illustratorDiv,
+.indesignDiv,
+.premiereDiv,
+.xdDiv {
+  position: absolute;
+  top: 104.17px;
+  left: 301.41px;
+  display: flex;
+  align-items: center;
+  width: 31.11px;
+  height: 9px;
+}
+.indesignDiv,
+.premiereDiv,
+.xdDiv {
+  top: 272.71px;
+  left: 249.44px;
+  width: 9.15px;
+}
+.indesignDiv,
+.premiereDiv {
+  left: 53.19px;
+  text-align: right;
+  width: 28.06px;
+}
+.premiereDiv {
+  top: 104.17px;
+  left: 0;
+  width: 29.28px;
+}
+.nBchartsRadarDiv,
+.textDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 332.52px;
+  height: 281.71px;
+}
+.nBchartsRadarDiv {
+  top: 679px;
+  left: 680px;
+  text-align: left;
+  font-size: 12px;
+  color: #333;
+  font-family: Roboto;
+}
+.rectangleIcon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  width: 161px;
+  height: 47px;
+}
+.subscribe {
+  position: absolute;
+  top: 7px;
+  left: 14px;
+  letter-spacing: 0.3px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 133px;
+  height: 34px;
+}
+.q1Div2,
+.q1Icon {
+  position: absolute;
+  top: 4029px;
+  height: 47px;
+}
+.q1Div2 {
+  left: 791px;
+  width: 161px;
+  font-size: 14px;
+  color: #fff;
+}
+.q1Icon {
+  left: 403px;
+  width: 363px;
+}
+.macBookPro141 {
+  position: relative;
+  background-color: #fff2ae;
+  width: 100%;
+  height: 4386px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 8px;
+  color: #000;
+  font-family: Mulish;
+}
